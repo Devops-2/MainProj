@@ -1,4 +1,4 @@
-node ('mum') {
+node ('mac-prasad') {
    stage('Checkout') {
        checkout scm
    }
