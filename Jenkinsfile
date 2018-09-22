@@ -12,5 +12,5 @@ node {
    
 stage("Test statement") {
        sh 'ls -ltr '
-   
+   }
 }
