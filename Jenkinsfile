@@ -10,4 +10,7 @@ node {
        sh 'ls -ltr '
    }
    
+stage("Test statement") {
+       sh 'ls -ltr '
+   
 }
